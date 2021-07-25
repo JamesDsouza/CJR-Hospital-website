@@ -1,2 +1,2 @@
-# CJR Hospital website
- Website creation using html,css,php and xml
+# CJRHospital
+ Locally Hosted Hospital Website
